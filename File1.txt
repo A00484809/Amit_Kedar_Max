@@ -1,4 +1,5 @@
-#A00484809
-Def Addition(a,b):
-    return(a+b)
+#A00483108
+public double Multiply(double a,double b){
+    return(a*b);
+}
 
