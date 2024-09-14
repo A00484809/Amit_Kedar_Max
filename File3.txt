@@ -5,4 +5,9 @@ Def Math_max(a,b):
 #A00476491
 Def Avg(a,b):
     return (a + b) / 2.0 
+	
+#A00483108
+public double GetPow(double a,double b){
+    return Math.pow(a,b);
+}
 
