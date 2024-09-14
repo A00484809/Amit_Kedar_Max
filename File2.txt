@@ -1,0 +1,4 @@
+#A00476491
+Def Mod(a,b):
+    return(a%b) 
+
