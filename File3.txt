@@ -1,4 +1,5 @@
-#A00484809
-Def Math_max(a,b):
-    return(max(a,b))
+#A00483108
+public double GetPow(double a,double b){
+    return Math.pow(a,b);
+}
 
