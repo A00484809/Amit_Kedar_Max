@@ -1,4 +1,6 @@
-#A00484809
-Def Division(a,b):
-    return(a/b)
+#A00483108
+public double GetMin(double a,double b){
+    return Math.min(a,b);
+}
+
 
